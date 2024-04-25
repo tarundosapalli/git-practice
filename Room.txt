@@ -1,0 +1,15 @@
+1000 Rice
+
+1440 tea
+2100 tiffins
+3000  curries
+3500  maintness+Rent
+
+2160 Tea
+7200  curries
+1000 Rice
+4200 Tiffins
+7000 Rent+maintness
+
+
+
